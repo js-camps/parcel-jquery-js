@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "parcel": "^2.12.0"
+  }
+}
